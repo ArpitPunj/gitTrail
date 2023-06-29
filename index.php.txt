@@ -1,1 +1,3 @@
 Root file configuration
+
+msqli_connect("codeDb.php");
